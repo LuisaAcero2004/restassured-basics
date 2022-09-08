@@ -21,7 +21,7 @@ public class CRUD_ApiLocal {
         then().
                 statusCode(200).
                 body("job[1]", equalTo("DevOps")).
-                body("firstName", hasItems("Jon","Beto","Luisa","Sarah")).
+                body("firstName", hasItems("Jon","Sheldon","Luisa","Sarah")).
                 log().all();
     }
 
