@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "firstName": "Jon",
+      "lastName": "Snow",
+      "job": "Tester",
+      "subjectId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "Sheldon",
+      "lastName": "Cooper",
+      "job": "DevOps",
+      "subjectId": 2,
+      "id": 2
+    },
+    {
+      "firstName": "Luisa",
+      "lastName": "Jaimes",
+      "job": "Web designer",
+      "subjectId": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Tompson",
+      "job": "Developer",
+      "subjectId": 3,
+      "id": 4
+    }
+  ],
+  "subjects": [
+    {
+      "id": 1,
+      "name": "Automation"
+    },
+    {
+      "id": 2,
+      "name": "DevOps"
+    },
+    {
+      "id": 3,
+      "name": "Development"
+    }
+  ]
+}
